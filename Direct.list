@@ -5,6 +5,33 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,tencentcloudapi.com
+DOMAIN-SUFFIX,raidrive.com
+DOMAIN,api.raidrive.com
+DOMAIN-SUFFIX,parsec.app
+DOMAIN-SUFFIX,asxs.top
+DOMAIN-SUFFIX,api.asxs.top
+DOMAIN,api.asxs.top
+DOMAIN-SUFFIX,178818.xyz
+
+# Cursor & others
+DOMAIN,cursor.com
+DOMAIN,api2.cursor.sh
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.dev
+DOMAIN,cursor-code-search.fly.de
+DOMAIN,updates.cursor.sh
+
+# acme.sh / Let's Encrypt
+DOMAIN,acme-v02.api.letsencrypt.org
+DOMAIN,acme-staging-v02.api.letsencrypt.org
+DOMAIN,curl.haxx.se
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,haxx.se
+
+# DNSPod
+DOMAIN-SUFFIX,dnspod.cn
+DOMAIN-SUFFIX,dnspod.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
